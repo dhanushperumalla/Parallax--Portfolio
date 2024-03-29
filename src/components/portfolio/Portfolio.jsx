@@ -5,26 +5,30 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 const items = [
   {
     id: 1,
-    title: "React Commerce",
-    img: "https://i.pinimg.com/564x/46/74/66/467466e03ec595b95875db70c4e41d6b.jpg",
+    title: "Movies Website",
+    // img: "https://i.pinimg.com/564x/46/74/66/467466e03ec595b95875db70c4e41d6b.jpg",
+    img: "movies.png",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae iusto voluptatum fugiat, quas temporibus quaerat perferendis harum doloribus ad placeat eius ex earum iste aliquid sequi. Aliquam, totam. Et, alias?",
   },
   {
     id: 2,
     title: "Travelling Website",
-    img: "https://i.pinimg.com/originals/95/de/97/95de9788940fd14d81478f61f761e4f2.gif",
+    img: "travels.png",
+    //img: "https://i.pinimg.com/originals/95/de/97/95de9788940fd14d81478f61f761e4f2.gif",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae iusto voluptatum fugiat, quas temporibus quaerat perferendis harum doloribus ad placeat eius ex earum iste aliquid sequi. Aliquam, totam. Et, alias?",
   },
   {
     id: 3,
     title: "Shopping Website",
-    img: "https://i.pinimg.com/564x/db/4b/b4/db4bb46e24b70b558fa01f2eb5d1844a.jpg",
+    img: "shopping.png",
+    // img: "https://i.pinimg.com/564x/db/4b/b4/db4bb46e24b70b558fa01f2eb5d1844a.jpg",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae iusto voluptatum fugiat, quas temporibus quaerat perferendis harum doloribus ad placeat eius ex earum iste aliquid sequi. Aliquam, totam. Et, alias?",
   },
   {
     id: 4,
     title: "Dashboard",
-    img: "https://i.pinimg.com/564x/82/22/52/82225292dee6572070b5064c3bf0e550.jpg",
+    img: "Dashboard.png",
+    // img: "https://i.pinimg.com/564x/82/22/52/82225292dee6572070b5064c3bf0e550.jpg",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae iusto voluptatum fugiat, quas temporibus quaerat perferendis harum doloribus ad placeat eius ex earum iste aliquid sequi. Aliquam, totam. Et, alias?",
   },
 ];
