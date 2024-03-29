@@ -51,7 +51,7 @@ const Contact = () => {
       initial="initial"
       whileInView="animate"
     >
-      <motion.divdiv className="textContainer" variants={variants}>
+      <motion.div className="textContainer" variants={variants}>
         <motion.h1 variants={variants}>Lets Work together</motion.h1>
         <motion.div className="item" variants={variants}>
           <h2>Mail</h2>
@@ -65,7 +65,7 @@ const Contact = () => {
           <h2>Phone</h2>
           <span>+91 987654321</span>
         </div>
-      </motion.divdiv>
+      </motion.div>
       <div className="formContainer">
         <motion.div
           className="phoneSvg"
